@@ -1,3 +1,1 @@
-resource "google_sql_database_instance" "test" {
-
-}
+resource "google_sql_database_instance"

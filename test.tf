@@ -1,4 +1,3 @@
-resource "google_compute_address" "name" {
-  project="test"
+resource "google_sql_database_instance" "test" {
 
 }
